@@ -113,6 +113,7 @@ const trinta = `<pre>
 |o o|
 |o o|
 |o o|
+|o o|
 -----
 </pre>`;
 const cem = `<pre>
