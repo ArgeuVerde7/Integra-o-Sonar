@@ -4,7 +4,7 @@
   "description": "",
   "main": "src/index.js",
   "scripts": {
-    "sonar": "node sonar-project.js",
+    "sonar": "sonar-project.properties",
     "test": "jest --coverage"
   },
   "jest": {
