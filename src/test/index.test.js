@@ -102,6 +102,7 @@ const vinte = `<pre>
 |o o|
 |o o|
 |o o|
+|o o o o o o o o|
 |o o|
 |o o|
 -----
